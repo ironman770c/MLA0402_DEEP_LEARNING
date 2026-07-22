@@ -23,3 +23,4 @@ for i in range(100):
 plt.plot(losses)
 plt.title("Loss Curve")
 plt.show()
+First program
